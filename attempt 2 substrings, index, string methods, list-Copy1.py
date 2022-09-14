@@ -1,8 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
-
+Juan code
 # # Objectives Week 4
 # 
+name = input("what is your name")
 # 1. Understand lists in python programming, 
 # 2. list functions, 
 # 3. tuples, 
